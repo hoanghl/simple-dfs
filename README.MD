@@ -13,3 +13,4 @@ A simple distributed file system written in **Golang** designed by my own.
 # 3. Sequence diagram
 
 ![seq-diagram](res/simple-dfs-sequence-dig.png)
+
