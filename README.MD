@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="res/logo.png" alt="logo"/>
+  <img src="documents/res/logo.png" alt="logo"/>
 </p>
 
 # 1. Introduction
@@ -8,9 +8,10 @@ A simple distributed file system written in **Golang** designed by my own.
 
 # 2. Architecture
 
-![architecture](res/simple-dfs-architecture.png)
+<p align="center">
+  <img src="documents/res/simple-dfs-architecture.png" alt="architecture"/>
+</p>
 
-# 3. Sequence diagram
+# 3. Scenatios
 
-![seq-diagram](res/simple-dfs-sequence-dig.png)
-
+More information is displayed at [SCENARIOS](documents/SCENARIOS.md).
